@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Chat GPT txt files
+*GPT.txt
+
+# Next time instructions/objectives
+Next time.txt
