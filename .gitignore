@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # Chat GPT txt files
-*GPT.txt
+/GPT
 
 # Next time instructions/objectives
 Next time.txt
